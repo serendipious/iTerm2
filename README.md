@@ -1,2 +1,1 @@
-This site hosts code for <a href="http://iterm2.com">iTerm2</a>. Issues are still on <a href="http://iterm2.com/bugs">Google Code</a> because Github doesn't support attachments.
-
+This is a fork of [iTerm2](https://github.com/gnachman/iTerm2) with a **MINIMAL UI**, where the title bar of the window is removed.
